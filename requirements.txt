@@ -1,0 +1,11 @@
+streamlit
+openai
+chromadb
+tqdm
+python-dotenv
+sentence-transformers
+PyPDF2
+requests
+nltk
+openai
+google-generativeai
